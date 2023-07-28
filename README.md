@@ -1,6 +1,6 @@
 # Panorama-dos-gastos-dos-Parlamentares-2023
 
-###Aqui fiz uma análise dos gastos dos Parlamentares no periodo de 01/01/2023 a 30/06/2023 ( Não usei os dados de Julho pelo mês não ter fechado ainda)
+Aqui fiz uma análise exploratória dos gastos dos Parlamentares no periodo de 01/01/2023 a 30/06/2023 ( Não usei os dados de Julho pelo mês não ter fechado ainda)
 
 Nesse período o PL, Pt e o União tiveram os maiores gastos, contudo o PROS, PSC e PTB tiveram os maiores gastos médios
 
