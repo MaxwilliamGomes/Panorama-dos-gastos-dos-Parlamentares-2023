@@ -19,3 +19,7 @@
    - Quais são as categorias de despesas mais comuns entre os parlamentares?
    - Quais estados (UF) têm os parlamentares com as despesas mais altas em média?
    - Qual é o mês com o maior valor total de despesas entre os parlamentares?
+
+#### link do Dashboard : https://lnkd.in/dN3hzkiX
+
+#### Fonte: https://dadosabertos.camara.leg.br/swagger/api.html#staticfile
