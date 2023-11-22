@@ -47,6 +47,12 @@
 
 
 #### Sumário executivo
+    
+   A análise revelou padrões de gastos partidários e regionais, bem como tendências intrigantes, como os gastos médios surpreendentes de alguns partidos e estados, a preeminência das divulgações apesar das empresas 
+   aéreas dominantes e os momentos de pico curiosos nas emissões de notas.
+
+   Essas descobertas abrem portas para investigações futuras e aprofundadas que podem trazer à tona uma compreensão mais rica e holística dos gastos parlamentares e suas motivações subjacentes.
+ 
 
 #### link do Dashboard em power bi : [https://lnkd.in/dN3hzkiX](https://app.powerbi.com/view?r=eyJrIjoiYmU3ZTBhODMtNTU2My00ODQ2LTljZWItNDViNGJlNjA4Mzc2IiwidCI6IjI2MjEzZmVjLWExMTEtNDYxOC1hYzkwLTMwMDkxYTgwODdiNiJ9)
 
