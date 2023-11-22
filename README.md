@@ -52,7 +52,20 @@
    aéreas dominantes e os momentos de pico curiosos nas emissões de notas.
 
    Essas descobertas abrem portas para investigações futuras e aprofundadas que podem trazer à tona uma compreensão mais rica e holística dos gastos parlamentares e suas motivações subjacentes.
- 
+   
+ Observações sobre gastos parlamentares
+
+    Partidos políticos: PL, PT e União lideraram os gastos totais, responsáveis por gastar 41,76% do valor total, mas PROS, PSC e PTB tiveram os maiores gastos médios.
+
+    Regiões geográficas: São Paulo, Minas Gerais e Bahia lideraram os gastos totais, totalinzando 30,11% do total gasto nesse período, mas o Amazonas teve os maiores gastos médios.
+
+    Categorias de despesas: Divulgações lideraram as despesas, seguidas por companhias aéreas.  Ambos juntos impactaram em 53,18% dos gastos totais.
+
+    Período: Houve um salto significativo nos gastos entre fevereiro e março de 57,3%, sendo março o mês com maior gasto nesses 6 meses.
+
+    Horário: As notas de gastos foram emitidas com mais frequência à meia-noite e ao meio-dia.
+
+
 
 #### link do Dashboard em power bi : [https://lnkd.in/dN3hzkiX](https://app.powerbi.com/view?r=eyJrIjoiYmU3ZTBhODMtNTU2My00ODQ2LTljZWItNDViNGJlNjA4Mzc2IiwidCI6IjI2MjEzZmVjLWExMTEtNDYxOC1hYzkwLTMwMDkxYTgwODdiNiJ9)
 
