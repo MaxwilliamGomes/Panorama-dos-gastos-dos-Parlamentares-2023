@@ -1,14 +1,15 @@
 # Panorama-dos-gastos-dos-Parlamentares-2023
 
-## Sobre o notebook
 
-#### Problema principal: Fazer uma análise exploratória nos gastos dos parlamentares durante o período de 01/01/2023 a 30/06/2023
+#### Background: 
 
-#### Objetivos:
+#### Problema de negócios:
 
-   - Estudar o dados referentes ao dataset dos parlamentares;
-   - Verificar a possibilidade de tratamento dos dados;
-   - Responder as perguntas de negócio
+   - Qual é o partido político com as despesas mais altas em média?
+   - Quais são os principais fornecedores que receberam mais pagamentos de parlamentares durante o ano de 2023?
+   - Quais são as categorias de despesas mais comuns entre os parlamentares?
+   - Quais estados (UF) têm os parlamentares com as despesas mais altas em média?
+   - Qual é o mês com o maior valor total de despesas entre os parlamentares?
 
 #### Qual é o significado de cada coluna deste dataset?
     txNomeParlamentar: O nome do parlamentar.
@@ -44,12 +45,8 @@
     ideDocumento: Número de identificação único para o documento de despesa.
     urlDocumento: Link URL para o documento de despesa.
 
-#### Quais tipos de problemas que vamos resolver?
-   - Qual é o partido político com as despesas mais altas em média?
-   - Quais são os principais fornecedores que receberam mais pagamentos de parlamentares durante o ano de 2023?
-   - Quais são as categorias de despesas mais comuns entre os parlamentares?
-   - Quais estados (UF) têm os parlamentares com as despesas mais altas em média?
-   - Qual é o mês com o maior valor total de despesas entre os parlamentares?
+
+#### Sumário executivo
 
 #### link do Dashboard em power bi : [https://lnkd.in/dN3hzkiX](https://app.powerbi.com/view?r=eyJrIjoiYmU3ZTBhODMtNTU2My00ODQ2LTljZWItNDViNGJlNjA4Mzc2IiwidCI6IjI2MjEzZmVjLWExMTEtNDYxOC1hYzkwLTMwMDkxYTgwODdiNiJ9)
 
