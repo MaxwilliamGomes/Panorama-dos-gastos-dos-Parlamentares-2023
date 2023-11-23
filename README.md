@@ -15,7 +15,7 @@ A análise dos gastos dos parlamentares torna-se, portanto, uma ferramenta cruci
    - Quais estados (UF) têm os parlamentares com as despesas mais altas em média?
    - Qual é o mês com o maior valor total de despesas entre os parlamentares?
 
-#### Qual é o significado de cada coluna deste dataset?
+#### Dicionário de dados
     txNomeParlamentar: O nome do parlamentar.
     cpf: O número de identificação do contribuinte brasileiro do parlamentar.
     ideCadastro: Número de identificação único do parlamentar.
