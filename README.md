@@ -3,6 +3,10 @@
 
 #### Background: 
 
+A questão dos gastos dos parlamentares brasileiros tornou-se um tema relevante devido à necessidade de transparência e prestação de contas no uso dos recursos públicos. A sociedade exige cada vez mais informações claras sobre como os representantes eleitos utilizam o dinheiro destinado a seus mandatos, especialmente diante do cenário econômico desafiador e das demandas crescentes por serviços públicos de qualidade.
+
+A análise dos gastos dos parlamentares torna-se, portanto, uma ferramenta crucial para compreender como os recursos públicos estão sendo direcionados, identificar padrões de despesas e avaliar a coerência entre os gastos e as responsabilidades inerentes ao cargo. Além disso, a transparência nesse processo não apenas fortalece a confiança da população nas instituições democráticas, mas também promove uma cultura de responsabilidade fiscal e ética.
+
 #### Problema de negócios:
 
    - Qual é o partido político com as despesas mais altas em média?
